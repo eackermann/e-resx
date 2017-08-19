@@ -9,6 +9,7 @@ Resources I enjoyed and would like to go back to, and some that I still need to 
 Variational auto-encoder: https://ermongroup.github.io/cs228-notes/extras/vae/ ( https://ermongroup.github.io/cs228-notes/ )
 - imaginary numbers: http://www.welchlabs.com/blog/?offset=1415134380000&reversePaginate=true
 - googlenet in Keras: http://joelouismarino.github.io/blog_posts/blog_googlenet_keras.html
+- series of tutorials on RNN using tensor flow, including A3C: https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
 
 
 - https://simplywall.st/user/views/1766/spotless-management
