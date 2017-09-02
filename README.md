@@ -20,3 +20,5 @@ Variational auto-encoder: https://ermongroup.github.io/cs228-notes/extras/vae/ (
 Giant LEGO: https://www.cnet.com/roadshow/news/youtuber-builds-a-giant-3d-printed-lego-go-kart/
 
 LEGO around the world: https://www.flickr.com/photos/66344850@N06/36064387243/in/album-72157685613467990/
+
+The Canadian: https://reservia.viarail.ca/search/tripresult.aspx?t=D&from=bc
