@@ -1,6 +1,11 @@
 # e-resx
 Resources I enjoyed and would like to go back to, and some that I still need to read.
 
+FFB! For deep learning and data science:
+- http://course.fast.ai/ --- practical deep learning using pytorch+, and transfer learning (start here!)
+- https://www.udacity.com/course/web-development--cs253 -- web development 
+- http://www.fast.ai/2017/03/01/changing-careers/ -- great advice and resx for switching careers to data science
+
 
 - "The unreasonable effectiveness of recurrent neural networks", by Andrej Karpathy: http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - "Exploring LSTMs", by Edwin Chen: http://blog.echen.me/2017/05/30/exploring-lstms/
