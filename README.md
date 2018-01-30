@@ -3,6 +3,7 @@ Resources I enjoyed and would like to go back to, and some that I still need to 
 
 FFB! For stats examples, ANOVA, mixed effects (LME) etc.:
   - https://github.com/statsmodels/statsmodels/wiki/Examples#linear-mixed-models
+  - https://github.com/junpenglao/GLMM-in-Python/blob/master/GLMM_in_python.ipynb (mixed effects model using statsmodels, Keras, tensorflow, Stan, etc.)
 
 FFB! For deep learning and data science:
 - http://course.fast.ai/ --- practical deep learning using pytorch+, and transfer learning (start here!)
