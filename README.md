@@ -1,6 +1,9 @@
 # e-resx
 Resources I enjoyed and would like to go back to, and some that I still need to read.
 
+FFB! For stats examples, ANOVA, mixed effects (LME) etc.:
+  - https://github.com/statsmodels/statsmodels/wiki/Examples#linear-mixed-models
+
 FFB! For deep learning and data science:
 - http://course.fast.ai/ --- practical deep learning using pytorch+, and transfer learning (start here!)
 - https://www.udacity.com/course/web-development--cs253 -- web development 
