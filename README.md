@@ -1,6 +1,9 @@
 # e-resx
 Resources I enjoyed and would like to go back to, and some that I still need to read.
 
+- Want to learn about blockchain? Implement one! https://hackernoon.com/learn-blockchains-by-building-one-117428612f46 ... super cool.
+- MANY free services to get that idea up and running on a small to medium scale: https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8
+
 FFB! For stats examples, ANOVA, mixed effects (LME) etc.:
   - https://github.com/statsmodels/statsmodels/wiki/Examples#linear-mixed-models
   - https://github.com/junpenglao/GLMM-in-Python/blob/master/GLMM_in_python.ipynb (mixed effects model using statsmodels, Keras, tensorflow, Stan, etc.)
